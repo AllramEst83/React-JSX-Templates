@@ -1,0 +1,5 @@
+function GenericFunction(props){
+  return(
+    <h2>Unicorn testin complete</h2>
+  );
+}
