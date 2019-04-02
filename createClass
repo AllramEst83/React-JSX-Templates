@@ -1,0 +1,6 @@
+
+var CustomClass = React.createClass({
+  render: function() {
+    return <h1>Testing Unicorns</h1>;
+  }
+});
